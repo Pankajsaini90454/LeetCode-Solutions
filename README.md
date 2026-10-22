@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
