@@ -7,6 +7,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2742-painting-the-walls](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/2742-painting-the-walls) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2742-painting-the-walls](https://github.com/Pankajsaini90454/LeetCode-Solutions/tree/master/2742-painting-the-walls) |
 <!---LeetCode Topics End-->
